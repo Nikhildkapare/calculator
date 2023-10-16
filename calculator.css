@@ -1,0 +1,50 @@
+div {
+  background-color: rgb(239, 236, 232);
+  width: 400px;
+  height: 200px;
+  padding: 80px;
+  text-align: center;
+  margin-left: 32%;
+  border: solid black 2px;
+}
+
+#btn1 {
+  background-color: rgb(224, 181, 113);
+}
+
+#btn2 {
+  background-color: rgb(121, 189, 228);
+}
+
+#btn3 {
+  background-color: rgb(171, 169, 169);
+}
+
+#btn4 {
+  background-color: rgb(218, 218, 82);
+}
+
+#hd1 {
+  text-align: center;
+  margin-top: 100px;
+  text-shadow: 2px 2px rgb(201, 82, 201);
+  font-size: 50px;
+}
+
+body {
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/85/88/92/1000_F_285889235_4OdZaoyEhH7D1ZBAGrBNsOJrHUHLtM9o.jpg');
+    background-repeat: none;
+    width: 95%;
+}
+
+#ans{
+    border: none;
+    font-size: 20px;
+    width: 100px
+}
+#hd2{
+    margin-left: 33px;
+}
+#btn5{
+  background-color: rgba(225, 85, 211, 0.7);
+}
